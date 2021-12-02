@@ -1,0 +1,9 @@
+[submodule "Cats-Ecommerce"]
+	path = Cats-Ecommerce
+	url = https://github.com/tatiPFernandes/Cats-Ecommerce
+[submodule "advice"]
+	path = advice
+	url = https://github.com/Taymur-G/advise
+[submodule "calculator"]
+	path = calculator
+	url = https://github.com/Taymur-G/calculator
